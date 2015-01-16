@@ -2,7 +2,7 @@
 /**
  * The file that defines the weCreate Widget Interface
  *
- * @link       http://www.the_github_repo_url.com
+ * @link       https://github.com/wecreatellc/wecreate-wp-widget
  * @since      1.0.0
  *
  * @package    wecreate
